@@ -25,3 +25,7 @@ poetry export -f requirements.txt --output requirements.txt
 ## Links
 
 [test relative local link](./bla.md)
+
+<./bla.md>
+
+<bla.md>
